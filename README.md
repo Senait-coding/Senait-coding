@@ -6,7 +6,7 @@
 
 Currently I'm enrolled as Web Developer student at  HackYourfuture Belgium.I am passionate about learning new things and share them with others.
 
-I graduated from Addis Ababa University (Ethiopia) with a Bachelor's degree in **Management** and I have 15 years of work experience as Logistics Officer.For more information about my work experience and my educational background please visit my LinkedIn account [click](https://www.linkedin.com/in/senait-b-86944277)
+I graduated from Addis Ababa University (Ethiopia) with a Bachelor's Degree in **Management** and I have 15 years of work experience as Logistics Officer.For more information about my work experience and my educational background please visit my LinkedIn account [click](https://www.linkedin.com/in/senait-b-86944277)
 
 
 ## Skills
