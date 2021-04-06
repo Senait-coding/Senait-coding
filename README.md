@@ -1,7 +1,5 @@
 ## Hello there 👋
 
-![SENI2](https://user-images.githubusercontent.com/77326649/113057193-0853a000-91ad-11eb-9153-4939967ff2cc.jpg)
-
 ### I'm Senait,
 
 Currently I'm enrolled as Web Developer student at  HackYourfuture Belgium.I am passionate about learning new things and share them with others.
