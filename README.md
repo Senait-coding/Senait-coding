@@ -1,5 +1,3 @@
-
-
 # <h1 align="center">Hi 👋, I'm Senait</h1>
 <h3 align="center">Student at HackYourFuture Belgium</h3>
 
@@ -8,7 +6,6 @@ F
 
 - 🌱 I’m currently learning **Web Development**
 
-<h3 align="left">Connect with me:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senait-coding&show_icons=true&locale=en" alt="senait-coding" /></p>
 
