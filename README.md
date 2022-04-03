@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Senait</h1>
 <h3 align="center">Student at HackYourFuture Belgium</h3>
 
-F
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seninet&label=Profile%20views&color=0e75b6&style=flat" alt="seninet" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
