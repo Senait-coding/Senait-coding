@@ -2,12 +2,12 @@
 <h3 align="center">Student at HackYourFuture Belgium</h3>
 
 F
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senait-coding&label=Profile%20views&color=0e75b6&style=flat" alt="senait-coding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seninet&label=Profile%20views&color=0e75b6&style=flat" alt="seninet" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senait-coding&show_icons=true&locale=en" alt="senait-coding" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seninet&show_icons=true&locale=en" alt="seninet" /></p>
 
   
 ### Social links:
