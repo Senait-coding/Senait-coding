@@ -1,6 +1,6 @@
 
-### <span style="color: orange; align:center">Hi 👋, I'm Senait</span>
-<!-- <h3 align="center">Student at HackYourFuture Belgium</h3> -->
+   <h2 align="center">Hi 👋, I'm Senait</h2>
+
 
 <span style="background:blue">
 
