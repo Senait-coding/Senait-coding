@@ -13,11 +13,11 @@
 
 ### Projects
 
-*  Group Project   
+* [ Group Project ](https://behelp.herokuapp.com/)
 
  [<img align="center" src="/assets/group%20project.png" style="width:48%; height:200px;border:2px solid #FFB471">](https://behelp.herokuapp.com/)<br>
  
-*  Personal Portfolio <br>
+*  [Personal Portfolio](https://behelp.herokuapp.com/) <br>
  
  [<img align="center" src="/assets/my%20portfolio.png" style="width:48%; height:200px;border:2px solid #c8ce0d">](https://seninet.github.io/home.html)
 
